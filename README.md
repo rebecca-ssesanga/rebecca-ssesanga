@@ -60,5 +60,4 @@
 ## 💡 Let's Connect!
 🚀 [GitHub](https://github.com/rebecca-ssesanga) | [LinkedIn](https://linkedin.com/in/rebecca-ssesanga) | 🐦 [Twitter](https://x.com/nalybecks) | 📸 [Instagram](https://instagram.com/nalybecks.hairstyles)  
 📧 Reach me: **nalybecks@gmail.com**
-## Hi there 👋
 
