@@ -1,63 +1,80 @@
 # 👋 Hi, I'm Rebecca Ssesanga!
 
-💻 **Software Engineer** | 📊 **Data Analyst** | 🔐 **Cybersecurity Enthusiast**  
+💻 **Software Engineer** | 📊 **Data Analytics & Cybersecurity Enthusiast** | 🔍 **ML & AI Explorer**  
 🧑🏾‍🎨 **Afrofuturistic Tech Hairstylist** | Founder of **[Nalybecks Hairstyles](https://instagram.com/nalybecks.hairstyles)**  
 
 ---
 
-## 🔥 What I Do
-- 🛠 **Build** machine learning applications for agriculture & hairstyling tech.
-- 📊 **Analyze** data for insights, trends, and predictions.
-- 🔐 **Explore** cybersecurity & AI-driven security solutions.
-- 🎨 **Innovate** in hairstyling with smart accessories, 3D printing & AI.
+## 🔥 What I Do  
+- 🛠 **Develop & Deploy** IT solutions, from **MIS** to **AI-powered applications**.  
+- 📊 **Analyze & Visualize Data** for insights, predictions, and decision-making.  
+- 🔐 **Secure IT systems** with cybersecurity, risk assessments & IT governance.  
+- 🎨 **Innovate** hairstyling with **smart accessories, 3D printing & AI-powered beauty tech**.  
 
 ---
 
-## 📌 Featured Projects
-### 📱 **Machine Learning & Data Science**
-- [🦟 Fall Armyworm Detection App](https://github.com/Rebecca256/faw-detection) - Detects FAW pest damage in maize leaves using CNN (MobileNetV2).
-- [🔍 Cybersecurity Data Analysis](https://github.com/Rebecca256/cybersec-analysis) - Analyzing network logs to detect anomalies.
+## 🚀 Recent Work & Achievements  
 
-### 🎨 **Afrofuturistic Hairstyling & Tech**
-- [💇🏾‍♀️ Smart Hair Accessory Tech](https://github.com/Rebecca256/afrofuturistic-tech) - Integrating tech into hairstyling (wearable IoT).
-- [📊 AI Hair Recommendation System](https://github.com/Rebecca256/hair-ai) - ML-based system for personalized Afro-textured hair recommendations.
+### 📌 **Living Earth Uganda**  
+✅ **Oversaw the development & deployment of a Management Information System (MIS)**, improving project collaboration across multiple offices.  
+✅ **Oversaw the development of the company website**, transitioning it from static to a dynamic Drupal-based platform.  
+✅ **Implemented OneDrive storage** for the data team, ensuring secure and centralized data management.  
+✅ **Designed IT trackers in Google Sheets & Excel** for **attendance, internet monitoring, and project tracking**.  
+✅ **Generated corporate email accounts for 100+ staff** and ensured cybersecurity compliance.  
+✅ **Conducted ICT risk assessments** to monitor **ISP performance** and secure organizational data.  
 
-### 🛠 **Data Engineering & Software**
-- [📊 Data Cleaning & Visualization](https://github.com/Rebecca256/data-viz) - Various datasets visualized for insights.
-- [🔐 Python Cybersecurity Scripts](https://github.com/Rebecca256/cybersec-scripts) - Scripts for penetration testing & encryption.
-
----
-
-## 🚀 Tech Stack & Tools
-
-**Programming:** Python, Java, SQL  
-**Machine Learning:** TensorFlow, Keras, Scikit-learn  
-**Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
-**Cybersecurity:** Wireshark, Metasploit, Nmap  
+### 📌 **National Information Technology Authority-Uganda (NITA-U)**  
+✅ **Maintained 99.9% uptime** for Uganda’s **National Data Backbone Infrastructure (NBI)**.  
+✅ **Conducted ICT risk assessments** and reviewed service agreements for **government agencies**.  
+✅ **Led the signing of 40+ MOUs & SLAs** between **NITA-U and MDAs**, improving IT service agreements.  
 
 ---
 
-## ☁️ Cloud & DevOps Experience
-### **1. Cloud Computing**
-- Stored and accessed datasets online for machine learning model training (e.g., **Google Drive**).
-- Used **Google Colab** for machine learning, which runs on cloud-based virtual machines.
+## 📌 Featured Projects  
 
-### **2. DevOps (Docker, GitHub Actions, CI/CD, etc.)**
-- Pushed code to **GitHub** for version control.
-- Tested machine learning models across different environments (e.g., moving from **Jupyter Notebook to a mobile app**).
+### 📱 **Machine Learning & Data Science**  
+- [🦟 Fall Armyworm Detection App](https://github.com/Rebecca256/faw-detection) - AI-powered maize pest detection using MobileNetV2 CNN.  
+- [🔍 Cybersecurity Data Analysis](https://github.com/Rebecca256/cybersec-analysis) - Analyzing network logs for anomaly detection.  
 
-### **3. Cloud-Based Data Visualization & Analytics**
-- Used **Power BI and Tableau Online** to analyze and visualize data.
-- Worked with **Google Sheets API** to fetch data dynamically.
+### 🎨 **Afrofuturistic Hairstyling & Tech**  
+- [💇🏾‍♀️ Smart Hair Accessory Tech](https://github.com/Rebecca256/afrofuturistic-tech) - Integrating **IoT & AI into hairstyling**.  
+- [📊 AI Hair Recommendation System](https://github.com/Rebecca256/hair-ai) - ML-powered personalized Afro-textured hair recommendations.  
 
-### **4. Cybersecurity & Cloud Security**
-- Interested in securing data and APIs to prevent exposure (e.g., **Fall Armyworm Detection App**).
-- Interested in working with **network security tools** like **Wireshark, Metasploit**.
-- Explored authentication methods such as **OAuth** for securing access.
+### 🛠 **Data Engineering & Software**  
+- [📊 Data Cleaning & Visualization](https://github.com/Rebecca256/data-viz) - Interactive dashboards for analytics.  
+- [🔐 Python Cybersecurity Scripts](https://github.com/Rebecca256/cybersec-scripts) - Security scripts for penetration testing & encryption.  
 
 ---
 
-## 💡 Let's Connect!
+## 🔧 Tech Stack & Tools  
+
+💻 **Programming & Databases:** Python, Java, SQL, HTML, CSS, JavaScript  
+📊 **Data Science & AI:** TensorFlow, Keras, Pandas, Scikit-learn, Matplotlib, Power BI, Tableau  
+🔒 **Cybersecurity & IT Governance:** Wireshark, Metasploit, Nmap, Risk Assessments, IT Policy Compliance  
+🌐 **Web & Systems Development:** Drupal, Network Administration, cPanel, Google Cloud, Microsoft 365  
+
+---
+
+## ☁️ Cloud & DevOps Experience  
+
+**1️⃣ Cloud Computing**  
+- **Managed OneDrive storage** for **Living Earth Uganda**, enabling secure data collaboration.  
+- **Used Google Drive & Google Sheets API** for real-time data tracking & automation.  
+
+**2️⃣ DevOps & CI/CD**  
+- **Pushed code to GitHub** for version control & open-source collaboration.  
+- **Tested ML models in cloud environments** (e.g., Google Colab, Jupyter Notebooks).  
+
+**3️⃣ Cybersecurity & Cloud Security**  
+- **Ensured data security & compliance** for corporate emails and cloud services.  
+- **Explored API security, authentication & network security tools**.  
+
+---
+
+## 💡 Let's Connect!  
 🚀 [GitHub](https://github.com/rebecca-ssesanga) | [LinkedIn](https://linkedin.com/in/rebecca-ssesanga) | 🐦 [Twitter](https://x.com/nalybecks) | 📸 [Instagram](https://instagram.com/nalybecks.hairstyles)  
-📧 Reach me: **nalybecks@gmail.com**
+📧 Reach me: **nalybecks@gmail.com**  
 
+---
+
+### **🚀 Always open to collaborations in AI, Data Analytics, Cybersecurity & Digital Transformation!**  
