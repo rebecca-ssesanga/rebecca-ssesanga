@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Rebecca Ssesanga!
 
-💻 **Software Engineer** | 📊 **Data Analytics & Cybersecurity Enthusiast** | 🔍 **ML & AI Explorer**  
-🧑🏾‍🎨 **Afrofuturistic Tech Hairstylist** | Founder of **[Nalybecks Hairstyles](https://instagram.com/nalybecks.hairstyles)**  
+**ML & Software Engineer** | **AI in Cybersecurity & Agriculture** | **Afrofuturistic Tech Hairstylist**| Founder of **[Nalybecks Hairstyles](https://instagram.com/nalybecks.hairstyles)**  
 
 ---
 
