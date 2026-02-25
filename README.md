@@ -33,7 +33,7 @@
 
 ### 📱 **Machine Learning & Data Science**  
 - [🦟 Fall Armyworm Detection App](https://github.com/rebecca-ssesanga/CornFAWDetector) - AI-powered Fall Armyworm pest damage detection in maize leaves using MobileNetV2 CNN.  
-- [🔍 Cybersecurity Data Analysis](https://github.com/Rebecca256/cybersec-analysis) - Analyzing network logs for anomaly detection.  
+- [🔍 Cybersecurity Data Analysis](https://github.com/rebecca-ssesanga/threat-dashboard) - Analyzing network logs for anomaly detection.  
 
 ### 🎨 **Afrofuturistic Hairstyling & Tech**  
 - [💇🏾‍♀️ Nalybecks Afrofuturistic AI](https://github.com/rebecca-ssesanga/nalybecks-afrofuturistic-ai) -A work-in-progress AI-powered web app for virtual Afrofuturistic hairstyle try-on and recommendations.  
