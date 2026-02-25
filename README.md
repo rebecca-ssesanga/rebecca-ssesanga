@@ -32,11 +32,11 @@
 ## 📌 Featured Projects  
 
 ### 📱 **Machine Learning & Data Science**  
-- [🦟 Fall Armyworm Detection App](https://github.com/rebecca-ssesanga/CornFAWDetector) - AI-powered maize pest detection using MobileNetV2 CNN.  
+- [🦟 Fall Armyworm Detection App](https://github.com/rebecca-ssesanga/CornFAWDetector) - AI-powered Fall Armyworm pest damage detection in maize leaves using MobileNetV2 CNN.  
 - [🔍 Cybersecurity Data Analysis](https://github.com/Rebecca256/cybersec-analysis) - Analyzing network logs for anomaly detection.  
 
 ### 🎨 **Afrofuturistic Hairstyling & Tech**  
-- [💇🏾‍♀️ Smart Hair Accessory Tech](https://github.com/Rebecca256/afrofuturistic-tech) - Integrating **IoT & AI into hairstyling**.  
+- [💇🏾‍♀️ Nalybecks Afrofuturistic AI](https://github.com/rebecca-ssesanga/nalybecks-afrofuturistic-ai) - Integrating **IoT & AI into hairstyling**.  
 - [📊 AI Hair Recommendation System](https://github.com/Rebecca256/hair-ai) - ML-powered personalized Afro-textured hair recommendations.  
 
 ### 🛠 **Data Engineering & Software**  
