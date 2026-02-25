@@ -36,7 +36,7 @@
 - [🔍 Cybersecurity Data Analysis](https://github.com/Rebecca256/cybersec-analysis) - Analyzing network logs for anomaly detection.  
 
 ### 🎨 **Afrofuturistic Hairstyling & Tech**  
-- [💇🏾‍♀️ Nalybecks Afrofuturistic AI](https://github.com/rebecca-ssesanga/nalybecks-afrofuturistic-ai) - Integrating **IoT & AI into hairstyling**.  
+- [💇🏾‍♀️ Nalybecks Afrofuturistic AI](https://github.com/rebecca-ssesanga/nalybecks-afrofuturistic-ai) -A work-in-progress AI-powered web app for virtual Afrofuturistic hairstyle try-on and recommendations.  
 - [📊 AI Hair Recommendation System](https://github.com/Rebecca256/hair-ai) - ML-powered personalized Afro-textured hair recommendations.  
 
 ### 🛠 **Data Engineering & Software**  
