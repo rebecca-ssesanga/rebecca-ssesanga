@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rebecca Ssesanga!
-Machine Learning Engineer (Research-Oriented) | Computer Vision for Agriculture | Cybersecurity Analytics | Applied AI
+
 **Machine Learning Engineer (Research-Oriented)** | **Computer Vision for Agriculture** | **Cybersecurity Analytics**| **Applied AI**  
 
 ---
