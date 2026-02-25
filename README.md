@@ -32,7 +32,7 @@
 ## 📌 Featured Projects  
 
 ### 📱 **Machine Learning & Data Science**  
-- [🦟 Fall Armyworm Detection App](https://github.com/Rebecca256/faw-detection) - AI-powered maize pest detection using MobileNetV2 CNN.  
+- [🦟 Fall Armyworm Detection App](https://github.com/rebecca-ssesanga/CornFAWDetector) - AI-powered maize pest detection using MobileNetV2 CNN.  
 - [🔍 Cybersecurity Data Analysis](https://github.com/Rebecca256/cybersec-analysis) - Analyzing network logs for anomaly detection.  
 
 ### 🎨 **Afrofuturistic Hairstyling & Tech**  
