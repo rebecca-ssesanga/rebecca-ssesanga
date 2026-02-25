@@ -37,7 +37,7 @@
 
 ### 🎨 **Afrofuturistic Hairstyling & Tech**  
 - [💇🏾‍♀️ Nalybecks Afrofuturistic AI](https://github.com/rebecca-ssesanga/nalybecks-afrofuturistic-ai) -A work-in-progress AI-powered web app for virtual Afrofuturistic hairstyle try-on and recommendations.  
-- [📊 AI Hair Recommendation System](https://github.com/Rebecca256/hair-ai) - ML-powered personalized Afro-textured hair recommendations.  
+- [📊 Nalybecks AfroGuard](https://go.glideapps.com/play/5s7WDJKLLgxdqIgPrYEb) - A 𝗹𝗼𝘄-𝗰𝗼𝗱𝗲 𝗺𝗼𝗯𝗶𝗹𝗲/𝘄𝗲𝗯 𝗮𝗽𝗽 that blends 𝗻𝗮𝘁𝘂𝗿𝗮𝗹 𝗵𝗮𝗶𝗿 𝗷𝗼𝘂𝗿𝗻𝗮𝗹𝗶𝗻𝗴 with 𝗯𝗶𝘁𝗲-𝘀𝗶𝘇𝗲𝗱 𝗰𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝘄𝗮𝗿𝗲𝗻𝗲𝘀𝘀 
 
 ### 🛠 **Data Engineering & Software**  
 - [📊 Data Cleaning & Visualization](https://github.com/Rebecca256/data-viz) - Interactive dashboards for analytics.  
