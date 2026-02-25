@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rebecca Ssesanga!
-
-**ML & Software Engineer** | **AI in Cybersecurity & Agriculture** | **Afrofuturistic Tech Hairstylist**| Founder of **[Nalybecks Hairstyles](https://instagram.com/nalybecks.hairstyles)**  
+Machine Learning Engineer (Research-Oriented) | Computer Vision for Agriculture | Cybersecurity Analytics | Applied AI
+**Machine Learning Engineer (Research-Oriented)** | **Computer Vision for Agriculture** | **Cybersecurity Analytics**| **Applied AI**  
 
 ---
 
